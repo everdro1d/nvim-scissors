@@ -1,4 +1,5 @@
-*nvim-scissors.txt*            For Neovim           Last change: 2026 April 05
+*nvim-scissors.txt*
+                                       For Neovim    Last change: 2026 June 22
 
 ==============================================================================
 Table of Contents                            *nvim-scissors-table-of-contents*
